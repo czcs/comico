@@ -92,6 +92,18 @@
           "picturePath": "/img/set2/comic3.jpg"
         }
       ]
+    },
+        {
+      "setId": "3",
+      "thumbnail": "",
+      "title": "Chapter 3",
+      "description": "",
+      "pictures": [
+        {
+          "id": 1,
+          "picturePath": "/img/set2/comic72.jpg"
+        }
+      ]
     }
   ]
 }
