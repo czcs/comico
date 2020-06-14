@@ -1,0 +1,93 @@
+{
+  "comics": [
+    {
+      "setId": "1",
+      "thumbnail": "/img/set1/thumbnail1.jpg",
+      "title": "Chapter 1",
+      "description": "",
+      "pictures": [
+        {
+          "id": 1,
+          "picturePath": "/img/set1/comic1.jpg"
+        },
+        {
+          "id": 2,
+          "picturePath": "/img/set1/comic2.jpg"
+        },
+        {
+          "id": 3,
+          "picturePath": "/img/set1/comic3.jpg"
+        },
+        {
+          "id": 4,
+          "picturePath": "/img/set1/comic4.jpg"
+        },
+        {
+          "id": 5,
+          "picturePath": "/img/set1/comic5.jpg"
+        },{
+          "id": 6,
+          "picturePath": "/img/set1/comic6.jpg"
+        },{
+          "id": 7,
+          "picturePath": "/img/set1/comic7.jpg"
+        },{
+          "id": 8,
+          "picturePath": "/img/set1/comic8.jpg"
+        },
+        {
+          "id": 9,
+          "picturePath": "/img/set1/comic9.jpg"
+        },{
+          "id": 10,
+          "picturePath": "/img/set1/comic10.jpg"
+        },{
+          "id": 11,
+          "picturePath": "/img/set1/comic11.jpg"
+        },
+        {
+          "id": 12,
+          "picturePath": "/img/set1/comic12.jpg"
+        },
+        {
+          "id": 13,
+          "picturePath": "/img/set1/comic13.jpg"
+        },
+        {
+          "id": 14,
+          "picturePath": "/img/set1/comic14.jpg"
+        },
+        {
+          "id": 15,
+          "picturePath": "/img/set1/comic15.jpg"
+        },
+        {
+          "id": 16,
+          "picturePath": "/img/set1/comic16.jpg"
+        },
+        {
+          "id": 17,
+          "picturePath": "/img/set1/comic17.jpg"
+        }
+
+
+      ]
+    },
+    {
+      "setId": "2",
+      "thumbnail": "/img/set2/thumbnail1.jpg",
+      "title": "Chapter 2",
+      "description": "",
+      "pictures": [
+        {
+          "id": 1,
+          "picturePath": "/img/set2/comic1.jpg"
+        },
+        {
+          "id": 2,
+          "picturePath": "/img/set2/comic2.jpg"
+        }
+      ]
+    }
+  ]
+}
