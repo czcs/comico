@@ -86,14 +86,10 @@
         {
           "id": 2,
           "picturePath": "/img/set2/comic2.jpg"
-        },
-        {
-          "id": 3,
-          "picturePath": "/img/set2/comic3.jpg"
         }
       ]
     },
-        {
+    {
       "setId": "3",
       "thumbnail": "",
       "title": "Chapter 3",
@@ -101,7 +97,11 @@
       "pictures": [
         {
           "id": 1,
-          "picturePath": "/img/set3/comic72.jpg"
+          "picturePath": "/img/set2/comic1.jpg"
+        },
+        {
+          "id": 2,
+          "picturePath": "/img/set2/comic2.jpg"
         }
       ]
     }
