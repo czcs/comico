@@ -12,62 +12,70 @@
         },
         {
           "id": 2,
-          "picturePath": "/img/set1/comic2.jpg"
+          "picturePath": "/img/set1/comic(2).jpg"
         },
         {
           "id": 3,
-          "picturePath": "/img/set1/comic3.jpg"
+          "picturePath": "/img/set1/comic(3).jpg"
         },
         {
           "id": 4,
-          "picturePath": "/img/set1/comic4.jpg"
+          "picturePath": "/img/set1/comic(4).jpg"
         },
         {
           "id": 5,
-          "picturePath": "/img/set1/comic5.jpg"
+          "picturePath": "/img/set1/comic(5).jpg"
         },{
           "id": 6,
-          "picturePath": "/img/set1/comic6.jpg"
+          "picturePath": "/img/set1/comic(6).jpg"
         },{
           "id": 7,
-          "picturePath": "/img/set1/comic7.jpg"
+          "picturePath": "/img/set1/comic(7).jpg"
         },{
           "id": 8,
-          "picturePath": "/img/set1/comic8.jpg"
+          "picturePath": "/img/set1/comic(8).jpg"
         },
         {
           "id": 9,
-          "picturePath": "/img/set1/comic9.jpg"
+          "picturePath": "/img/set1/comic(9).jpg"
         },{
           "id": 10,
-          "picturePath": "/img/set1/comic10.jpg"
+          "picturePath": "/img/set1/comic(10).jpg"
         },{
           "id": 11,
-          "picturePath": "/img/set1/comic11.jpg"
+          "picturePath": "/img/set1/comic(11).jpg"
         },
         {
           "id": 12,
-          "picturePath": "/img/set1/comic12.jpg"
+          "picturePath": "/img/set1/comic(12).jpg"
         },
         {
           "id": 13,
-          "picturePath": "/img/set1/comic13.jpg"
+          "picturePath": "/img/set1/comic(13).jpg"
         },
         {
           "id": 14,
-          "picturePath": "/img/set1/comic14.jpg"
+          "picturePath": "/img/set1/comic(14).jpg"
         },
         {
           "id": 15,
-          "picturePath": "/img/set1/comic15.jpg"
+          "picturePath": "/img/set1/comic(15).jpg"
         },
         {
           "id": 16,
-          "picturePath": "/img/set1/comic16.jpg"
+          "picturePath": "/img/set1/comic(16).jpg"
         },
         {
           "id": 17,
-          "picturePath": "/img/set1/comic17.jpg"
+          "picturePath": "/img/set1/comic(17).jpg"
+        }
+         {
+          "id": 18,
+          "picturePath": "/img/set1/comic(18).jpg"
+        }
+         {
+          "id": 19,
+          "picturePath": "/img/set1/comic(19).jpg"
         }
 
 
