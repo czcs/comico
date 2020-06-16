@@ -89,11 +89,50 @@
       "pictures": [
         {
           "id": 1,
-          "picturePath": "/img/set2/comic1.jpg"
+          "picturePath": "/img/set2/comic (1).jpg"
         },
         {
           "id": 2,
-          "picturePath": "/img/set2/comic2.jpg"
+          "picturePath": "/img/set2/comic (2).jpg"
+        },
+        {
+          "id": 3,
+          "picturePath": "/img/set2/comic (3).jpg"
+        },
+        {
+          "id": 4,
+          "picturePath": "/img/set2/comic (4).jpg"
+        },
+        {
+          "id": 5,
+          "picturePath": "/img/set2/comic (5).jpg"
+        },{
+          "id": 6,
+          "picturePath": "/img/set2/comic (6).jpg"
+        },{
+          "id": 7,
+          "picturePath": "/img/set2/comic (7).jpg"
+        },{
+          "id": 8,
+          "picturePath": "/img/set2/comic (8).jpg"
+        },
+        {
+          "id": 9,
+          "picturePath": "/img/set2/comic (9).jpg"
+        },{
+          "id": 10,
+          "picturePath": "/img/set2/comic (10).jpg"
+        },{
+          "id": 11,
+          "picturePath": "/img/set2/comic (11).jpg"
+        },
+        {
+          "id": 12,
+          "picturePath": "/img/set2/comic (12).jpg"
+        },
+        {
+          "id": 13,
+          "picturePath": "/img/set2/comic (13).jpg"
         }
       ]
     },
