@@ -312,6 +312,81 @@
           "picturePath": "/img/set5/comic (13).jpg"
         }
        ]
+     },
+     {
+      "setId": "6",
+      "thumbnail": "",
+      "title": "Chapter 6",
+      "description": "",
+      "pictures": [
+        {
+          "id": 1,
+          "picturePath": "/img/set6/comic (1).jpg"
+        },
+        {
+          "id": 2,
+          "picturePath": "/img/set6/comic (2).jpg"
+        },
+        {
+          "id": 3,
+          "picturePath": "/img/set6/comic (3).jpg"
+        },
+        {
+          "id": 4,
+          "picturePath": "/img/set6/comic (4).jpg"
+        },
+        {
+          "id": 5,
+          "picturePath": "/img/set6/comic (5).jpg"
+        },{
+          "id": 6,
+          "picturePath": "/img/set6/comic (6).jpg"
+        },{
+          "id": 7,
+          "picturePath": "/img/set6/comic (7).jpg"
+        },{
+          "id": 8,
+          "picturePath": "/img/set6/comic (8).jpg"
+        },
+        {
+          "id": 9,
+          "picturePath": "/img/set6/comic (9).jpg"
+        },{
+          "id": 10,
+          "picturePath": "/img/set6/comic (10).jpg"
+        },{
+          "id": 11,
+          "picturePath": "/img/set5/comic (11).jpg"
+        },
+        {
+          "id": 12,
+          "picturePath": "/img/set6/comic (12).jpg"
+        },
+        {
+          "id": 13,
+          "picturePath": "/img/set6/comic (13).jpg"
+         },
+        {
+          "id": 14,
+          "picturePath": "/img/set6/comic (12).jpg"
+        },
+        {
+          "id": 15,
+          "picturePath": "/img/set6/comic (13).jpg"
+         },
+        {
+          "id": 16,
+          "picturePath": "/img/set6/comic (12).jpg"
+        },
+        {
+          "id": 17,
+          "picturePath": "/img/set6/comic (13).jpg"
+        },
+        {
+          "id": 18,
+          "picturePath": "/img/set6/comic (13).jpg"
+        }
+        ]
      }
   ]
 }
